@@ -5,7 +5,7 @@ Guidelines mentioned the problem statement https://www.drivendata.org/competitio
 
 Target variable: total_cases
 
-ePerformance is evaluated according to the mean absolute error mentioned above
+Performance is evaluated according to the mean absolute error mentioned above
 
 The format for the submission file is simply the (city, year, weekofyear) and the predicted total_cases for San Juan or Iquitos
 
