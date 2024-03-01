@@ -1,2 +1,2 @@
-# dengue_code
+# dengue_project
 Code for Dengue project
